@@ -1,1 +1,3 @@
 # gitcommit
+
+## git commit practice
